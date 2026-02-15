@@ -1,0 +1,5 @@
+{
+  "name": "QA Pulse: Software Metrics Dashboard",
+  "description": "A comprehensive software quality assurance dashboard that tracks performance, code coverage, bug trends, and provides AI-driven insights to improve software quality.",
+  "requestFramePermissions": []
+}
